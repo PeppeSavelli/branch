@@ -27,3 +27,5 @@ qui si trova la descrizione
 - "git clone url " serve per clonare le repository per esempio da un altro profilo github;
 - git pull, dobbiamo specifcae l'alias dell'url, serve per tenere le repository clonate in upload;
 - git init crea una repository;
+- se voglio creare un branch posso utilizzare il comando "git checkout -b nome_branch";
+- se ci vogliamo spostare tra branch si utilizza il comando "git checkout nome_branch";
