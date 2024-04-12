@@ -1,19 +1,6 @@
-# Titolo
-## titolo
-### titolo
-checklist
-- ciao
-- ciao 2
-questo è un [link](www.google.com)
-```
-qui si trova la descrizione
-```
-
-
-
-
-##
-# Comandi per il terminal
+# GIT
+*Git è un sistema di controllo delle versioni distribuito ampiamente utilizzato per il tracciamento delle modifiche nel codice sorgente durante lo sviluppo del software.*
+## Comandi per il terminal
 
 *CHECKLIST:*
 
