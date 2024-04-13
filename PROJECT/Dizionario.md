@@ -34,4 +34,13 @@ VIM è un editor di testo molto potente e altamente configurabile, che è spesso
 
 ## Come eliminare un branch in remoto
 
+- `git push origin --delete nome_branch`
+
 ## doc, fix, feat
+
+- Nel momento in cui vado ad effettuare un commit, all'interno degli apici, prima di scrivere qualsiasi commento, inserisco uno dei tre termini visti sopra, quindi doc, fix oppure feat che vanno seguiti con i `:`, ad esempio:
+
+- `doc: "commento"` ;
+- `fix: "commento"` ;
+- `feat: "commento"` ;
+
